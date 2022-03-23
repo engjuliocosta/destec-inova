@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "cons"
+version = "0.1.0"
+description = ""
+authors = ["engjuliocosta <julinho.colorado@gmailcom>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+httpx = "^0.22.0"
+pytest = "^7.1.1"
+requests = "^2.27.1"
+Flask = "^2.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
