@@ -33,10 +33,17 @@
 Necessito estudar ainda mais. A notícia boa do processo seletivo, é que começo entendi como funciona a framework Flask.
 
 >>> Utilização:
+
 >>> Clone a repo utilizando a sua forma predileta;
->>> Acesse o terminal do computador
->>> Entre na pasta onde você armazenou este projeto
->>> Ative a virtualenv com .api/bin/activate  em sistema unix
->>> Teste de integração com: behave/'pasta_armazenada'/fetures
->>> Teste unitário com unittest: unittest discovery -m test/ -v
->>> Rode a aplicação com: flask run
+
+>>> Acesse o terminal do computador;
+
+>>> Entre na pasta onde você armazenou este projeto;
+
+>>> Ative a virtualenv com .api/bin/activate  em sistema unix;
+
+>>> Teste de integração com: behave/'pasta_armazenada'/fetures;
+
+>>> Teste unitário com unittest: unittest discovery -m test/ -v;
+
+>>> Rode a aplicação com: flask run.
